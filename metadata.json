@@ -1,0 +1,8 @@
+{
+  "name": "PlayStation 5 Dimension Showcase",
+  "description": "A high-fidelity, cinematic interactive showcase of the PS5 ecosystem featuring 3D interactions, minimalist design, and AI-powered product assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
